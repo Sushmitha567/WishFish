@@ -11,7 +11,7 @@ $ apt install wget
 
 $ apt install openssh
 
-$ git clone https://github.com/kinghacker0/WishFish
+$ git clone https://github.com/Sushmitha567/WishFish
 
 <h3>Usage</h3>
 
@@ -29,4 +29,4 @@ $ bash wishfish.sh
 This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
 
 
-                                            Inspired By github.com/thelinuxchoice
+                                            Inspired By github.com/kinghacker0
